@@ -61,7 +61,7 @@ def Discriminator():
     return tf.keras.Model(inputs=[ini, gen], outputs=last)
 ```  
 
-Finalmente realicé el entrenamiento con 480 imágenes de laberintos, 90 de las cuales fueron para test, en 100 epocas.  Las trayectorias cortas se entrenaban en 20 épocas y las más largas en casi cien, pero debo confesar que aun tiene problemas con las trayectorias más largas. 
+Finalmente realicé el entrenamiento con [480 imágenes](https://drive.google.com/file/d/1sp3DznqkAn84sYy9AmnUfZ4Kw7MF6P1g/view?usp=sharing)  de laberintos, 90 de las cuales fueron para test, en 100 epocas.  Las trayectorias cortas se entrenaban en 20 épocas y las más largas en casi cien, pero debo confesar que aun tiene problemas con las trayectorias más largas. 
 
 ![imagen](soluciones.gif) 
 
@@ -71,5 +71,5 @@ Y para terminar los probé con 18 nuevas imágenes. Desde luego eran rutas  cort
 
 
 
-[Datos](https://drive.google.com/file/d/1sp3DznqkAn84sYy9AmnUfZ4Kw7MF6P1g/view?usp=sharing)  
+[las imágenes de usadas estan aquí](https://drive.google.com/file/d/1sp3DznqkAn84sYy9AmnUfZ4Kw7MF6P1g/view?usp=sharing)  
 
