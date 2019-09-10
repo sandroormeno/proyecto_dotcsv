@@ -7,7 +7,7 @@ Estaba casi convencido  de que podía  entrenar   una arquitectura de red neuron
 
 ![imagen](IN_OUT.jpg)  
 
-Pero tenía la dificultad que previamente,  debía  diseñar las muestras de entrenamiento. Hacerlo a escala real sería muy aventurado, considerando que era una prueba.  Definitivamente, lo más importante era la intención de experimentar con el sistema de Pix2pix. Así que deseche esta primera idea. Afortunadamente tenía guardadas unas fotos de perros que manipulé digitalmente para probar la arquitectura y estos fueron los resultados. [El código está aquí] (https://drive.google.com/file/d/1sp3DznqkAn84sYy9AmnUfZ4Kw7MF6P1g/view?usp=sharing) . 
+Pero tenía la dificultad que previamente,  debía  diseñar las muestras de entrenamiento. Hacerlo a escala real sería muy aventurado, considerando que era una prueba.  Definitivamente, lo más importante era la intención de experimentar con el sistema de Pix2pix. Así que deseche esta primera idea. Afortunadamente tenía guardadas unas fotos de perros que manipulé digitalmente para probar la arquitectura y estos fueron los resultados. ![El código está aquí] (https://drive.google.com/file/d/1sp3DznqkAn84sYy9AmnUfZ4Kw7MF6P1g/view?usp=sharing) . 
 
 ![imagen](descarga.png) 
 
@@ -20,7 +20,7 @@ Una de las modificaciones intentaba solucionar el problema de algunas respuestas
 ![imagen](problema.jpg) 
 
 
-Lo primero que deduje es que necesitaba un discriminador más grande, que tenga más resolución. La propuesta inicialmente tenía una forma de 16 x16 paches  y la propuesta final tiene 33x33. Además le estamos aplicando ZeroPadding2D(), como se puede apreciar en el código.
+Lo primero que deduje es que necesitaba un discriminador más grande, que tenga más resolución. La propuesta inicialmente tenía una forma de 16 x16 paches  y la propuesta final tiene 33x33. Además le estamos aplicando ZeroPadding2D(), como se puede apreciar en el ![código](https://github.com/sandroormeno/proyecto_dotcsv/blob/master/laberinto.ipynb).
 
 ![imagen](DISCRIMIBADOR.jpg) 
 
