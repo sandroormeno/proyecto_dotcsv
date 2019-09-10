@@ -70,6 +70,4 @@ Y para terminar los probé con 18 nuevas imágenes. Desde luego eran rutas  cort
 ![imagen](resultados-2.gif) 
 
 
-```python
-
-```
+datos: https://drive.google.com/file/d/1sp3DznqkAn84sYy9AmnUfZ4Kw7MF6P1g/view?usp=sharing
