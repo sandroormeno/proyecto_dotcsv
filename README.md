@@ -5,13 +5,12 @@ Hace unas semanas atrás me propusieron un proyecto que involucraba implementar 
 
 Estaba casi convencido  de que podía  entrenar   una arquitectura de red neuronal con imágenes  del inicio y fin del recorrido, y si le mostraba la trayectoria final; ella luego podría aprender a encontrar las rutas con autonomía.
 
+![imagen](boceto.jpg) 
 ![imagen](IN_OUT.jpg)  
 
 Pero tenía la dificultad que previamente,  debía  diseñar las muestras de entrenamiento. Hacerlo a escala real sería muy aventurado, considerando que era una prueba.  Definitivamente, lo más importante era la intención de experimentar con el sistema de Pix2pix. Así que deseche esta primera idea. Afortunadamente tenía guardadas unas fotos de perros que manipulé digitalmente para probar la arquitectura y estos fueron los resultados. [El código está aquí](https://drive.google.com/file/d/1sp3DznqkAn84sYy9AmnUfZ4Kw7MF6P1g/view?usp=sharing) . 
 
-![imagen](boceto.jpg) 
 ![imagen](descarga.png) 
-
 
 Con esta primera experiencia me decidí por retomar la primera idea. Pero era muy trabajoso tener que construir el set de datos. Así que abstraje la idea y la concentré en un pequeño laberinto que podría, girar y reflejar para aumentar los datos rápida y fácilmente. Con la idea persistente  de resultar no ser del todo efectiva.   
 Inicialmente use unas 100 muestras y podría notar que si entrenaba adecuadamente. Definitivamente no esperaba una solución total, pero si un aproximación. A este punto es importante indicar que tenía problemas de acceso al internet,  así que todas las pruebas iníciales las desarrollé en mi laptop sin tarjeta gráfica.  Los entrenamientos tardaron unas 12 horas.  Cuando estaba seguro de que estaba en el rumbo correcto,  decidí ir a una cafetería conocida para entrenar al modelo en Colab en un par de horas.  
