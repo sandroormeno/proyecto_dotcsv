@@ -7,7 +7,7 @@ Estaba casi convencido  de que podía  entrenar   una arquitectura de red neuron
 
 ![imagen](IN_OUT.jpg)  
 
-Pero tenía la dificultad que previamente,  debía  diseñar las muestras de entrenamiento. Hacerlo a escala real sería muy aventurado, considerando que era una prueba.  Definitivamente, lo más importante era la intención de experimentar con el sistema de Pix2pix. Así que deseche esta primera idea. Afortunadamente tenía guardadas unas fotos de perros que manipulé digitalmente para probar la arquitectura y estos fueron los resultados. 
+Pero tenía la dificultad que previamente,  debía  diseñar las muestras de entrenamiento. Hacerlo a escala real sería muy aventurado, considerando que era una prueba.  Definitivamente, lo más importante era la intención de experimentar con el sistema de Pix2pix. Así que deseche esta primera idea. Afortunadamente tenía guardadas unas fotos de perros que manipulé digitalmente para probar la arquitectura y estos fueron los resultados. [El código está aquí] (https://drive.google.com/file/d/1sp3DznqkAn84sYy9AmnUfZ4Kw7MF6P1g/view?usp=sharing) . 
 
 ![imagen](descarga.png) 
 
@@ -71,5 +71,5 @@ Y para terminar los probé con 18 nuevas imágenes. Desde luego eran rutas  cort
 
 
 
-[las imágenes de usadas estan aquí](https://drive.google.com/file/d/1sp3DznqkAn84sYy9AmnUfZ4Kw7MF6P1g/view?usp=sharing)  
+[las imágenes usadas están aquí](https://drive.google.com/file/d/1sp3DznqkAn84sYy9AmnUfZ4Kw7MF6P1g/view?usp=sharing)  
 
