@@ -72,3 +72,7 @@ Y para terminar los probé con 18 nuevas imágenes. Desde luego eran rutas  cort
 
 [las imágenes usadas están aquí](https://drive.google.com/file/d/1sp3DznqkAn84sYy9AmnUfZ4Kw7MF6P1g/view?usp=sharing)  
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=sqFjtjZKVIk
+" target="_blank"><img src="https://github.com/sandroormeno/proyecto_dotcsv/blob/master/youtube.jpg" 
+alt="IMAGE ALT TEXT HERE" width="600" height="300" border="10" /></a> 
+
