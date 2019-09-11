@@ -76,3 +76,5 @@ Y para terminar los probé con 18 nuevas imágenes. Desde luego eran rutas  cort
 " target="_blank"><img src="https://github.com/sandroormeno/proyecto_dotcsv/blob/master/youtube.jpg" 
 alt="IMAGE ALT TEXT HERE" width="600" height="300" border="10" /></a> 
 
+__Fe de erratas__: en la imagen de Github se ve que he manipulado las imágenes con un flip vertical, pero es un error. HE APLICADO UN FLIP HORIZONTAL A TODA LAS IMÁGENES con Photoshop, luego en el código  aplico aleatoriamente FLIP VERTICAL (tf.image.flip_up_down) para aumentar datos.  
+En el video no se aprecia que usé Colab; pero todos los entrenamientos finales los realice allí y me bajé los checkpoints para ejecutarlos en mi pc.  
